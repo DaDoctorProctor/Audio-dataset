@@ -26,3 +26,5 @@ for person_folder in os.listdir(main_folder):
             print(src_path,dst_path)
             shutil.copy(src_path, dst_path)
 
+
+#%%
